@@ -56,3 +56,6 @@ yarn knex:migrate
 # instalar o cors
 yarn add cors
 yarn add @types/cors
+
+# instalar biblioteca para consumir api
+yarn add axios
