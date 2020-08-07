@@ -59,3 +59,26 @@ yarn add @types/cors
 
 # instalar biblioteca para consumir api
 yarn add axios
+
+# criando projeto mobile
+expo init mobile
+-- template: blank(TypeScript)
+
+# startar o projeto
+yarn start
+
+# instalar fonts google via expo
+expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+
+# biblioteca para gerenciar rotas e navegação. React Navigation
+yarn add @react-navigation/native
+-- https://reactnavigation.org
+
+# bibliotecas complementares do React Navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+# biblioteca de modo de navegação Stack
+yarn add @react-navigation/stack
+
+# biblioteca de modo de navegação em tab
+yarn add @react-navigation/bottom-tabs
