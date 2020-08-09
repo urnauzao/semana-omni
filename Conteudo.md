@@ -82,3 +82,10 @@ yarn add @react-navigation/stack
 
 # biblioteca de modo de navegação em tab
 yarn add @react-navigation/bottom-tabs
+
+# Armazenamento local 
+expo install @react-native-community/async-storage
+
+# atividades v2
+[https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc623597]
+
