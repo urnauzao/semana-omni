@@ -14,7 +14,55 @@ Por exemplo, no desafio de autênticação de usuários você terá que criar a 
 
 Então para saber como acessar o Layout dos desafios, veja na página abaixo:
 
-[Layout dos desafios Proffy](https://www.notion.so/Layout-dos-desafios-Proffy-b65b509655194c02b3b4c9d4c74b78b4)
+--- [Layout dos desafios Proffy](https://www.notion.so/Layout-dos-desafios-Proffy-b65b509655194c02b3b4c9d4c74b78b4), ou, siga o passo a passo:
+
+# Acessando o Layout
+
+Há três opções para acessar o layout da aplicação desta edição do NLW. Confira aqui:
+
+### Opção 1 - Download dos arquivos `.fig`
+
+Para seguir por essa opção, primeiro você deve criar uma conta gratuita no Figma, para isso, você pode [clicar aqui](https://www.figma.com/signup). Na página de cadastro, você pode logar diretamente com sua conta do Google ou criar uma conta com o e-mail que você preferir.
+
+Após criar sua conta, você pode acessar sua Dashboard do Figma, para isso basta acessar [https://www.figma.com/](https://www.figma.com/) e ele vai te redirecionar para a Dashboard.
+
+Caso ele não redirecione diretamente para a sua dashboard, existe um botão "Log in" no canto superior direito da tela, que permitirá você acessar a conta que você acabou de criar e, ao logar, você será redirecionado automaticamente.
+
+Agora dentro da sua Dashboard, basta baixar e arrastar os arquivos com formato `.fig` que nós disponibilizamos logo abaixo para a tela do seu navegador e pronto! 
+
+[Proffy Web 2.0.fig](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fd42c2c-ba7d-4930-818f-fd59f69418d7/Proffy_Web_2.0.fig)
+
+[Proffy Mobile 2.0.fig](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/595bfc0a-14f4-4ca0-aa0a-b54582c3b273/Proffy_Mobile_2.0.fig)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c213e727-82af-4718-b68e-898b59fc206c/import.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c213e727-82af-4718-b68e-898b59fc206c/import.gif)
+
+Agora é só aguardar os arquivos serem enviados e você poderá acessá-los diretamente no Figma.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00bd20c8-e48a-43b5-98c9-add581aac58e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00bd20c8-e48a-43b5-98c9-add581aac58e/Untitled.png)
+
+### Opção 2 - Duplicando o layout do figma
+
+Para seguir por essa opção, você também deve ter uma conta no Figma, para isso, você pode [clicar aqui](https://www.figma.com/signup). Na página de cadastro, você pode logar diretamente com sua conta do Google ou criar uma conta com o e-mail que você preferir.
+
+Após criar sua conta, você pode acessar sua Dashboard do Figma. Para isso basta acessar [https://www.figma.com/](https://www.figma.com/) e ele vai te redirecionar para a Dashboard.
+
+Caso ele não redirecione diretamente para a sua dashboard, existe um botão "Log in" no canto superior direito da tela, que permitirá você acessar a conta que você acabou de criar e, ao logar, você será redirecionado automaticamente.
+
+Agora para duplicar os layouts, basta você clicar nos links abaixo. Ele adicionará o Layout à sua dashboard do Figma automaticamente, como uma cópia.
+
+[Clique aqui para duplicar o layout Web](https://www.figma.com/file/Agvethfp7FANyXDDU3LUfd/Proffy-Web-2.0/duplicate)
+
+[Clique aqui para duplicar o layout Mobile](https://www.figma.com/file/nZ7lMEBYZSMhRxfdvy6fKz/Proffy-Mobile-2.0/duplicate)
+
+### Opção 3 - Visualizando diretamente o layout
+
+Nessa opção você não precisa ter uma conta no Figma e poderá visualizar o layout diretamente pelo navegador, mas ela é limitada a 50 acessos simultâneos. Após os 50 acessos simultâneos, só é permitido acessá-lo em modo de "Apenas visualizar" o layout, e nada mais.
+
+Caso você queira ter um acesso avançado ao Layout, com todas as medidas e opções (ex.: copiar o texto diretamente do Figma), recomendamos seguir uma das duas opções acima.
+
+[Clique aqui para acessar o layout Web](https://www.figma.com/file/Agvethfp7FANyXDDU3LUfd/Proffy-Web-2.0)
+
+[Clique aqui para acessar o layout Mobile](https://www.figma.com/file/nZ7lMEBYZSMhRxfdvy6fKz/Proffy-Mobile-2.0)
 
 # Autenticação de usuários
 
